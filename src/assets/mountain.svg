@@ -1,0 +1,12 @@
+<svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <rect width="300" height="150" fill="#87CEEB"/>
+  <!-- Sun -->
+  <circle cx="250" cy="50" r="30" fill="#FFD700"/>
+  <!-- Mountains -->
+  <polygon points="0,150 100,50 150,150" fill="#8B7355"/>
+  <polygon points="80,150 180,40 280,150" fill="#A0826D"/>
+  <polygon points="200,150 280,70 300,150" fill="#6B5D4F"/>
+  <!-- Ground -->
+  <rect y="150" width="300" height="100" fill="#228B22"/>
+</svg>

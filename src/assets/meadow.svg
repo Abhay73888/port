@@ -1,0 +1,19 @@
+<svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <rect width="300" height="130" fill="#87CEEB"/>
+  <!-- Clouds -->
+  <ellipse cx="50" cy="40" rx="30" ry="15" fill="#fff"/>
+  <ellipse cx="250" cy="60" rx="35" ry="18" fill="#fff"/>
+  <!-- Flowers -->
+  <circle cx="60" cy="150" r="3" fill="#FF69B4"/>
+  <circle cx="100" cy="155" r="3" fill="#FF1493"/>
+  <circle cx="150" cy="160" r="3" fill="#FFB6C1"/>
+  <circle cx="200" cy="158" r="3" fill="#FF69B4"/>
+  <circle cx="250" cy="162" r="3" fill="#FF1493"/>
+  <!-- Grass -->
+  <rect y="130" width="300" height="120" fill="#228B22"/>
+  <!-- Grass blades -->
+  <line x1="30" y1="150" x2="35" y2="140" stroke="#32CD32" stroke-width="1"/>
+  <line x1="80" y1="155" x2="85" y2="145" stroke="#32CD32" stroke-width="1"/>
+  <line x1="150" y1="160" x2="155" y2="148" stroke="#32CD32" stroke-width="1"/>
+</svg>

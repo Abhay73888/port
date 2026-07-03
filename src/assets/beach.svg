@@ -1,0 +1,13 @@
+<svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <rect width="300" height="120" fill="#87CEEB"/>
+  <!-- Sun -->
+  <circle cx="250" cy="40" r="25" fill="#FFD700"/>
+  <!-- Ocean -->
+  <rect y="120" width="300" height="80" fill="#1E90FF"/>
+  <!-- Waves -->
+  <path d="M 0 130 Q 50 120 100 130 T 200 130 T 300 130" stroke="#fff" stroke-width="2" fill="none"/>
+  <path d="M 0 145 Q 50 135 100 145 T 200 145 T 300 145" stroke="#fff" stroke-width="2" fill="none"/>
+  <!-- Sand -->
+  <rect y="200" width="300" height="50" fill="#F4A460"/>
+</svg>

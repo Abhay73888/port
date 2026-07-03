@@ -1,0 +1,13 @@
+<svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky gradient effect -->
+  <rect width="300" height="250" fill="#1a1a2e"/>
+  <!-- Upper sky -->
+  <rect width="300" height="120" fill="#FF6B35"/>
+  <!-- Sun -->
+  <circle cx="150" cy="100" r="40" fill="#FFD700"/>
+  <!-- Reflection in water -->
+  <rect y="130" width="300" height="120" fill="#264653"/>
+  <!-- Water waves -->
+  <path d="M 0 140 Q 50 135 100 140 T 200 140 T 300 140" stroke="#FFD700" stroke-width="1" fill="none" opacity="0.6"/>
+  <path d="M 0 160 Q 75 150 150 160 T 300 160" stroke="#FFD700" stroke-width="1" fill="none" opacity="0.4"/>
+</svg>

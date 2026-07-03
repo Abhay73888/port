@@ -1,0 +1,15 @@
+<svg width="300" height="250" xmlns="http://www.w3.org/2000/svg">
+  <!-- Sky -->
+  <rect width="300" height="100" fill="#87CEEB"/>
+  <!-- Trees -->
+  <polygon points="30,100 10,150 50,150" fill="#228B22"/>
+  <polygon points="30,90 15,120 45,120" fill="#32CD32"/>
+  <polygon points="100,100 75,160 125,160" fill="#228B22"/>
+  <polygon points="100,85 80,115 120,115" fill="#32CD32"/>
+  <polygon points="180,100 160,155 200,155" fill="#228B22"/>
+  <polygon points="180,90 165,120 195,120" fill="#32CD32"/>
+  <polygon points="250,100 230,150 270,150" fill="#228B22"/>
+  <polygon points="250,90 235,120 265,120" fill="#32CD32"/>
+  <!-- Ground -->
+  <rect y="160" width="300" height="90" fill="#8B7355"/>
+</svg>
