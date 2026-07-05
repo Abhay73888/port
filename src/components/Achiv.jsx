@@ -10,10 +10,10 @@ const ACHIEVEMENTS = [
 ];
 
 const PROFILES = [
-  { icon: "🐙", title: "GitHub", handle: "@abhaymaurya", desc: "Source code, commit history, and open contributions.", href: "https://github.com/abhaymaurya", live: true },
-  { icon: "🟧", title: "LeetCode", handle: "[UPDATE THIS]", desc: "DSA practice — problem-solving under real constraints.", href: "#", live: false },
-  { icon: "🟩", title: "GeeksforGeeks", handle: "[UPDATE THIS]", desc: "Additional DSA & CS fundamentals practice.", href: "#", live: false },
-  { icon: "🟢", title: "HackerRank", handle: "[UPDATE THIS]", desc: "Skill certifications and coding challenges.", href: "#", live: false },
+  { icon: "🐙", title: "GitHub", handle: "@Abhay73888", desc: "Source code, commit history, and open contributions.", href: "https://github.com/Abhay73888", live: true },
+  { icon: "🟧", title: "LeetCode", handle: "@abhaykumarmaurya65", desc: "DSA practice — problem-solving under real constraints.", href: "https://leetcode.com/abhaykumarmaurya65", live: true },
+  { icon: "🟩", title: "GeeksforGeeks", handle: "@abhaykumar253e", desc: "Additional DSA & CS fundamentals practice.", href: "https://www.geeksforgeeks.org/profile/abhaykumar253e", live: true },
+  { icon: "🟢", title: "HackerRank", handle: "@abhaykumarmaury2", desc: "Skill certifications and coding challenges.", href: "https://www.hackerrank.com/profile/abhaykumarmaury2", live: true },
 ];
 
 export default function Achiv() {

@@ -220,9 +220,9 @@ Driven by Innovation..<br />
           </div>
 
           <div className="socials">
-            <a href="github.com/Abhay73888" target="_blank" rel="noreferrer">GH</a>
-            <a href="linkedin.com/in/abhay-maurya-71b960231" target="_blank" rel="noreferrer">in</a>
-            <a href="https://leetcode.com" target="_blank" rel="noreferrer">LC</a>
+            <a href="https://github.com/Abhay73888" target="_blank" rel="noreferrer">GH</a>
+            <a href="https://linkedin.com/in/abhay-maurya-71b960231" target="_blank" rel="noreferrer">in</a>
+            <a href="https://leetcode.com/abhaykumarmaurya65" target="_blank" rel="noreferrer">LC</a>
           </div>
         </div>
 

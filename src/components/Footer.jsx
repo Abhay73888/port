@@ -173,9 +173,9 @@ export default function Footer() {
           </div>
           <div className="footer-col fade-in">
             <h4>Connect</h4>
-            <a href="https://github.com/abhaymaurya" target="_blank" rel="noreferrer">GitHub</a>
+            <a href="https://github.com/Abhay73888" target="_blank" rel="noreferrer">GitHub</a>
             <a href="https://linkedin.com/in/abhaymaurya" target="_blank" rel="noreferrer">LinkedIn</a>
-            <a href="https://leetcode.com/u/abhaymaurya" target="_blank" rel="noreferrer">LeetCode</a>
+            <a href="https://leetcode.com/abhaykumarmaurya65" target="_blank" rel="noreferrer">LeetCode</a>
           </div>
           <div className="footer-col fade-in">
             <h4>Quick Info</h4>

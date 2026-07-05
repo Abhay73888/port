@@ -157,11 +157,11 @@ export default function Contact() {
                   <div className="info-value">+91 90000 00000</div>
                 </div>
               </div>
-              <div style={{ paddingTop: "16px" }}>
+                <div style={{ paddingTop: "16px" }}>
                 <div className="social-row">
-                  <a href="https://github.com/abhaymaurya" target="_blank" rel="noreferrer">GH</a>
+                  <a href="https://github.com/Abhay73888" target="_blank" rel="noreferrer">GH</a>
                   <a href="https://linkedin.com/in/abhaymaurya" target="_blank" rel="noreferrer">in</a>
-                  <a href="https://leetcode.com/u/abhaymaurya" target="_blank" rel="noreferrer">LC</a>
+                  <a href="https://leetcode.com/abhaykumarmaurya65" target="_blank" rel="noreferrer">LC</a>
                 </div>
               </div>
             </div>
