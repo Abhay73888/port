@@ -10,7 +10,7 @@ import { useState } from "react";
  * [UPDATE THIS] — Replace FORM_ENDPOINT below with your real Formspree
  * (or EmailJS) endpoint before deploying.
  */
-const FORM_ENDPOINT = "https://formspree.io/f/YOUR_FORM_ID"; // [UPDATE THIS]
+const FORM_ENDPOINT = "https://formspree.io/f/mzzzzabc"; // [UPDATE THIS]
 
 export default function Contact() {
   const [status, setStatus] = useState("idle"); // idle | submitting | success | error

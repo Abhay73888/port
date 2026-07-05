@@ -8,7 +8,7 @@ import Journey from "./components/Journey"
 import Sl6 from "./components/Sl6"
 import Edu from "./components/Edu"
 import Achiv from "./components/Achiv"
-import Contect from "./components/Contect"
+import Contect from "./components/Contect";
 import Footer from "./components/Footer"
 function App() {
   return (

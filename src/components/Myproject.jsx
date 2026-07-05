@@ -95,7 +95,7 @@ const Myproject = () => {
         <div className="project-card">
           <h3>Portfolio Website</h3>
           <p>A sleek personal portfolio built with React and modern styling patterns.</p>
-          <a href="#" className="project-link">View project →</a>
+          <a href="#" className="https://port-lilac-zeta.vercel.app/">View project →</a>
         </div>
         <div className="project-card">
           <h3>API Backend</h3>
